@@ -1,0 +1,1 @@
+{"arquitecture": "B", "trainable_params": 67345, "non_trainable_params": 0, "train_metrics": {"mse": null, "mae": null, "r2_score": null, "kendalltau": null, "pearsonr": null, "spearmanr": null}, "test_metrics": {"mse": null, "mae": null, "r2_score": null, "kendalltau": null, "pearsonr": null, "spearmanr": null}, "total_time": 16.9649, "epochs": 100}

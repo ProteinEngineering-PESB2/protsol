@@ -1,0 +1,1 @@
+/home/dmedina/protsol/src/run_scripts/run_one_hot.sh: line 4: 2633922 Killed                  python /home/dmedina/protsol/src/numerical_representation/run_one_hot.py /home/dmedina/protsol/processing_datasets/categorical_dataset/ response

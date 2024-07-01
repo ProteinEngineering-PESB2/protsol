@@ -1,0 +1,20 @@
+######################################################################################
+# 
+# Protein Solubility Dataset (SOLP)
+# 
+# Content: 17408 proteins (8704 soluble, 8704 insoluble)
+#
+# Format:  Fasta, with header:  >ProteinID_Class
+#          where:
+#            - ProteinID is the chain identifier
+#            - Class = S (Soluble) or I (Insoluble)
+#
+# Remark:  The first three letters of the ProteinID indicate the source database
+#          - TDB = TargetDB 
+#          - PDB = Protein Data Bank
+#          - SWP = Swiss-Prot
+#          - SIT = Sequences from (Idicula-Thomas and Balaji, 2005)
+#
+# Author:  Christophe N. Magnan, cmagnan@ics.uci.edu
+#
+######################################################################################

@@ -1,0 +1,249 @@
+protocol_id,checked,expression_system,direct_identification
+NYSGRC-Ligation Independent Cloning,FALSE,Escherichia coli,YES
+NESG-ligase_independent_cloning,FALSE,Escherichia coli,YES
+NYSGRC-SS Expression and Purification,FALSE,Escherichia coli,YES
+NYSGXRC-SGX_MOLBIO_TOPO_TRANSFORM,TRUE,Escherichia coli,YES
+NESG-small_scale_expression,FALSE,Escherichia coli,YES
+EFI-Ligation Independent Cloning,FALSE,Escherichia coli,YES
+JCSG-E_Ecoli_GNF_1,TRUE,Escherichia coli,YES
+EFI-SS Expression and Purification,FALSE,Escherichia coli,YES
+NESG-large_scale_expression,FALSE,Escherichia coli,YES
+MCSG-anl_cloning_1,FALSE,Escherichia coli,YES
+CESG-SMALL-SCALE EXPRESSION TESTING V.3.0.0,FALSE,Escherichia coli,YES
+NYSGRC-LEX48 PASM-5052 Large Scale Expression,FALSE,Escherichia coli,YES
+SSGCID-11,FALSE,Escherichia coli,YES
+MCSG-toronto_expression_1,FALSE,Escherichia coli,YES
+EFI-LEX48 PASM-5052 Large Scale Expression,FALSE,Escherichia coli,YES
+CESG-LARGE SCALE PRODUCTION OF SELENOMETHIONYL-LABELED PROTEINS v.3.0.0,FALSE,Escherichia coli,YES
+CESG-SMALL-SCALE EXPRESSION TESTING v5.0.0,FALSE,Escherichia coli,YES
+NYSGRC-Large-Scale Native LEX48 Expression,FALSE,Escherichia coli,YES
+MPP-LP.4788,FALSE,Escherichia coli,YES
+EFI-Large-Scale Native LEX48 Expression,FALSE,Escherichia coli,YES
+NYCOMPS-LP.449,FALSE,Escherichia coli,YES
+CSGID-NU_SelMet_expression,TRUE,Escherichia coli,YES
+SSGCID-10,FALSE,Escherichia coli,YES
+CESG-LARGE SCALE PRODUCTION OF 15N-LABELED PROTEINS v.3.0.0,FALSE,Escherichia coli,YES
+SGX-SGX_MOLBIO_EXPR_SOL_CFTR,TRUE,Escherichia coli,YES
+CSGID-NU_native_expression,TRUE,Escherichia coli,YES
+CESG-LARGE SCALE PRODUCTION OF SELENOMETHIONYL-LABELED PROTEIN v.3.0.1,FALSE,Escherichia coli,YES
+CESG-SeMet_Growth_Purification_V2.0.0,FALSE,Escherichia coli,YES
+CESG-LARGE SCALE PRODUCTION OF SELENOMETHIONYL-LABELED PROTEIN v5.0.0,FALSE,Escherichia coli,YES
+SGX-SGX_FERM_ECOLI_LB_CFTR,TRUE,Escherichia coli,YES
+CESG-LARGE SCALE PRODUCTION OF 15N-LABELED PROTEINS v.3.0.1,FALSE,Escherichia coli,YES
+SSGCID-8,FALSE,Escherichia coli,YES
+MPP-LP.4341,TRUE,Escherichia coli,YES
+MCSG-NU_default_expression,TRUE,Escherichia coli,YES
+NYSGRC-SS-refold-b1,FALSE,Escherichia coli,YES
+CESG-MESO-SCALE EXPRESSION TESTING OF 15N-LABELED PROTEINS V.3.0.0,FALSE,Escherichia coli,YES
+CESG-Small_Scale_Expression_Testing_V2.0.0,FALSE,Escherichia coli,YES
+CESG-15N_Growth_Purification_V2.0.0,FALSE,Escherichia coli,YES
+NYSGXRC-SGX_FERM_ECOLI_LB,TRUE,Escherichia coli,YES
+MPP-LP.2361,FALSE,Escherichia coli,YES
+MPP-LP.2322,FALSE,Escherichia coli,YES
+MPP-LP.4813,TRUE,Escherichia coli,YES
+SSGCID-33,TRUE,Escherichia coli,YES
+MPP-LP.4790,FALSE,Escherichia coli,YES
+NYSGXRC-SGX_FERM_ECOLI_M9,TRUE,Escherichia coli,YES
+NYSGRC-AECOM_default_cloning,FALSE,Escherichia coli,YES
+CSGID-uva_expression_native_1,FALSE,Escherichia coli,YES
+CSGID-NU_default_expression,TRUE,Escherichia coli,YES
+NYSGRC-Large-Scale HY-Media LEX48 Fermentation,FALSE,Escherichia coli,YES
+NYCOMPS-LP.548,FALSE,Escherichia coli,YES
+MPP-LP.1684,FALSE,Escherichia coli,YES
+EFI-MWV - Autoinduction Shaker,FALSE,Escherichia coli,YES
+"CESG-LARGE SCALE PRODUCTION OF 15N, 13C-LABELED PROTEINS v.3.0.1",FALSE,Escherichia coli,YES
+CESG-MESO-SCALE EXPRESSION TESTING OF SELENOMETHIONYL-LABELED PROTEIN v.3.0.1,FALSE,Escherichia coli,YES
+MPP-LP.2350,FALSE,Escherichia coli,YES
+EFI-Large-Scale Native GNF Expression,FALSE,Escherichia coli,YES
+EFI-Large-Scale HY-Media LEX48 Fermentation,FALSE,Escherichia coli,YES
+CSGID-uva_expression_semet_1,FALSE,Escherichia coli,YES
+SSGCID-31,TRUE,Escherichia coli,YES
+EFI-AECOM_default_cloning,FALSE,Escherichia coli,YES
+SSGCID-2,TRUE,Escherichia coli,YES
+NYSGRC-uva_expression_native_1,FALSE,Escherichia coli,YES
+MCSG-uva_expression_native_1,FALSE,Escherichia coli,YES
+CESG-LARGE SCALE PRODUCTION OF UNLABELED PROTEINS V3.0.0,FALSE,Escherichia coli,YES
+NATPRO-LP.6102,FALSE,Escherichia coli,YES
+SSGCID-1,TRUE,Escherichia coli,YES
+NYSGRC-Large-Scale Native GNF Expression,FALSE,Escherichia coli,YES
+MPP-LP.4789,FALSE,Escherichia coli,YES
+SSGCID-96,FALSE,Escherichia coli,YES
+NATPRO-LP.2350,FALSE,Escherichia coli,YES
+NYSGRC-uva_expression_semet_1,FALSE,Escherichia coli,YES
+CESG-MAXWELL 16 EXPRESSION TESTING (R D) v.1.0.0,TRUE,Escherichia coli,YES
+NYSGRC-MWV - Autoinduction Shaker,FALSE,Escherichia coli,YES
+NYSGRC-Large Scare Expression in AutoInduction Media 2L flasks,FALSE,Escherichia coli,YES
+MPP-LP.2320,FALSE,Escherichia coli,YES
+CESG-LARGE SCALE PRODUCTION OF UNLABELED PROTEIN v.3.0.1,FALSE,Escherichia coli,YES
+MPP-LP.2325,FALSE,Escherichia coli,YES
+MPP-LP.4814,TRUE,Escherichia coli,YES
+"CESG-LARGE SCALE PRODUCTION OF 15N,13C-LABELED PROTEINS v.3.0.0",FALSE,Escherichia coli,YES
+CESG-15N;13C_Growth_Purification_V2.0.0,FALSE,Escherichia coli,YES
+SSGCID-9,FALSE,Escherichia coli,YES
+TMPC-LP.4700,FALSE,Escherichia coli,YES
+SSGCID-128,TRUE,Escherichia coli,YES
+MPP-LP.2326,FALSE,Escherichia coli,YES
+MCSG-uva_expression_semet_1,FALSE,Escherichia coli,YES
+MPP-LP.4664,FALSE,Escherichia coli,YES
+ATCG3D-Cloning_1,FALSE,Escherichia coli,YES
+ATCG3D-expression_1,FALSE,Escherichia coli,YES
+EFI-Hobbs_ mutagenesis,FALSE,Escherichia coli,YES
+NYSGRC-LIC cloning into pNIC28Bas4 vector with Accuprime PFx polymerase,FALSE,Escherichia coli,YES
+CSGID-UTSW_standard expression,FALSE,Escherichia coli,YES
+EFI-SeMET expression in HY Media-PSI2,TRUE,Escherichia coli,YES
+NYSGRC-KrIT-1 Expression and Purifiaction,FALSE,Escherichia coli,YES
+SECSG-Expression-93,FALSE,Escherichia coli,YES
+SECSG-Expression-91,FALSE,Escherichia coli,YES
+SECSG-Expression-9,FALSE,Escherichia coli,YES
+SECSG-Expression-88,FALSE,Escherichia coli,YES
+SECSG-Expression-86,FALSE,Escherichia coli,YES
+SECSG-Expression-84,FALSE,Escherichia coli,YES
+SECSG-Expression-8,FALSE,Escherichia coli,YES
+SSGCID-45,FALSE,Escherichia coli,YES
+SECSG-Expression-77,FALSE,Escherichia coli,YES
+SECSG-Expression-76,FALSE,Escherichia coli,YES
+SECSG-Expression-75,FALSE,Escherichia coli,YES
+SECSG-Expression-94,FALSE,Escherichia coli,YES
+SECSG-Expression-95,FALSE,Escherichia coli,YES
+SECSG-large_scale_expression_sgce_sop_006,FALSE,Escherichia coli,YES
+SECSG-HAD_Exp_M9,FALSE,Escherichia coli,YES
+SECSG-Expression-98,FALSE,Escherichia coli,YES
+SGPP-UW_Sol_3a,FALSE,Escherichia coli,YES
+SSGCID-48,FALSE,Escherichia coli,YES
+SSGCID-124,FALSE,Escherichia coli,YES
+TEMIMPS-LP.896,FALSE,Escherichia coli,YES
+TEMIMPS-LP.918,FALSE,Escherichia coli,YES
+TEMIMPS-LP.916,FALSE,Escherichia coli,YES
+TEMIMPS-LP.915,FALSE,Escherichia coli,YES
+TEMIMPS-LP.789,FALSE,Escherichia coli,YES
+TEMIMPS-LP.808,FALSE,Escherichia coli,YES
+TEMIMPS-LP.806,FALSE,Escherichia coli,YES
+TEMIMPS-LP.805,FALSE,Escherichia coli,YES
+TEMIMPS-LP.804,FALSE,Escherichia coli,YES
+TEMIMPS-LP.803,FALSE,Escherichia coli,YES
+TEMIMPS-LP.802,FALSE,Escherichia coli,YES
+TEMIMPS-LP.801,FALSE,Escherichia coli,YES
+TEMIMPS-LP.800,FALSE,Escherichia coli,YES
+TEMIMPS-LP.799,FALSE,Escherichia coli,YES
+TEMIMPS-LP.798,FALSE,Escherichia coli,YES
+TEMIMPS-LP.797,FALSE,Escherichia coli,YES
+TEMIMPS-LP.796,FALSE,Escherichia coli,YES
+TEMIMPS-LP.795,FALSE,Escherichia coli,YES
+TEMIMPS-LP.793,FALSE,Escherichia coli,YES
+TEMIMPS-LP.792,FALSE,Escherichia coli,YES
+TEMIMPS-LP.791,FALSE,Escherichia coli,YES
+TEMIMPS-LP.807,FALSE,Escherichia coli,YES
+TEMIMPS-LP.810,FALSE,Escherichia coli,YES
+TEMIMPS-LP.811,FALSE,Escherichia coli,YES
+TEMIMPS-LP.818,FALSE,Escherichia coli,YES
+TEMIMPS-LP.815,FALSE,Escherichia coli,YES
+TEMIMPS-LP.814,FALSE,Escherichia coli,YES
+TEMIMPS-LP.813,FALSE,Escherichia coli,YES
+TEMIMPS-LP.812,FALSE,Escherichia coli,YES
+TMPC-LP.4788,FALSE,Escherichia coli,YES
+TMPC-LP.6311,FALSE,Escherichia coli,YES
+TMPC-LP.6310,FALSE,Escherichia coli,YES
+TMPC-LP.2361,FALSE,Escherichia coli,YES
+TMPC-LP.2326,FALSE,Escherichia coli,YES
+TMPC-LP.2322,FALSE,Escherichia coli,YES
+TMPC-LP.2320,FALSE,Escherichia coli,YES
+TMPC-LP.4664,FALSE,Escherichia coli,YES
+TMPC-LP.2381,FALSE,Escherichia coli,YES
+TEMIMPS-LP.790,FALSE,Escherichia coli,YES
+TEMIMPS-LP.788,FALSE,Escherichia coli,YES
+TEMIMPS-LP.1010,FALSE,Escherichia coli,YES
+TEMIMPS-LP.1008,FALSE,Escherichia coli,YES
+TEMIMPS-LP.1009,FALSE,Escherichia coli,YES
+TEMIMPS-LP.1011,FALSE,Escherichia coli,YES
+TEMIMPS-LP.1027,FALSE,Escherichia coli,YES
+TEMIMPS-LP.1021,FALSE,Escherichia coli,YES
+TEMIMPS-LP.1019,FALSE,Escherichia coli,YES
+TEMIMPS-LP.787,FALSE,Escherichia coli,YES
+SSGCID-7,FALSE,Escherichia coli,YES
+SSGCID-6,FALSE,Escherichia coli,YES
+SSGCID-82,FALSE,Escherichia coli,YES
+TEMIMPS-LP.786,FALSE,Escherichia coli,YES
+TEMIMPS-LP.775,FALSE,Escherichia coli,YES
+TEMIMPS-LP.1274,FALSE,Escherichia coli,YES
+TEMIMPS-LP.1279,FALSE,Escherichia coli,YES
+TEMIMPS-LP.1273,FALSE,Escherichia coli,YES
+CSGID-WU_native_soluble_expression_1,FALSE,Escherichia coli,YES
+CSGID-WU_native_inclusion_body_expression_2,FALSE,Escherichia coli,YES
+ISFI-ISFI_protocol_15,FALSE,Escherichia coli,YES
+SECSG-Expression-7,FALSE,Escherichia coli,YES
+MCSG-PNNL protocol 7v1.0_LC-MS and data analysis,FALSE,Escherichia coli,YES
+MCSG-standard purification_ANL,FALSE,Escherichia coli,YES
+CSGID-standard purification_ANL,FALSE,Escherichia coli,YES
+CESG-Combined_Small_Scale_Expression_Testing_Growth_Purification_V2.0.0,FALSE,Escherichia coli,YES
+ATCG3D-expression_4,FALSE,Escherichia coli,YES
+ATCG3D-purification_1,FALSE,Escherichia coli,YES
+BSGC-BSGC Expression Protocols,FALSE,Escherichia coli,YES
+CESG-LARGE-SCALE PRODUCTION OF UNLABELED PROTEIN v.4.0.0,FALSE,Escherichia coli,YES
+CSGID-PKS13 Purification,FALSE,Escherichia coli,YES
+CESG-TB_Growth_V2.0.0,FALSE,Escherichia coli,YES
+CESG-MESO SCALE EXPRESSION TESTING OF 15N-LABELED PROTEINS v.3.0.1,FALSE,Escherichia coli,YES
+CESG-MESO-SCALE EXPRESSION TESTING OF SELENOMETHIONYL-LABELED PROTEIN v.3.0.0,FALSE,Escherichia coli,YES
+CESG-SMALL-SCALE EXPRESSION TESTING USING 5SM MEDIUM PROTOCOL V.3.0.0,FALSE,Escherichia coli,YES
+CESG-SMALL-SCALE EXPRESSION TESTING USING TB+G MEDIUM PROTOCOL V.3.0.0,FALSE,Escherichia coli,YES
+CESG-SMALL-SCALE EXPRESSION TESTING V.4.0.0,FALSE,Escherichia coli,YES
+MPID-Cloning3,FALSE,Escherichia coli,YES
+MPID-Cloning4-ReaLCloning,FALSE,Escherichia coli,YES
+NYSGXRC-NYSGRC_NMR,FALSE,Escherichia coli,YES
+SECSG-cloning_sgce_sop_002,FALSE,Escherichia coli,YES
+SECSG-Crystallomics_Cloning_01,FALSE,Escherichia coli,YES
+NYSGRC-KRIT1 Purification,FALSE,Escherichia coli,YES
+NYSGRC-Kap95 Expression,FALSE,Escherichia coli,YES
+SECSG-Expression-5,FALSE,Escherichia coli,YES
+SECSG-Expression-49,FALSE,Escherichia coli,YES
+SECSG-Expression-48,FALSE,Escherichia coli,YES
+SECSG-Expression-47,FALSE,Escherichia coli,YES
+SECSG-Expression-46,FALSE,Escherichia coli,YES
+SECSG-Expression-45,FALSE,Escherichia coli,YES
+SECSG-Expression-4,FALSE,Escherichia coli,YES
+SECSG-Expression-50,FALSE,Escherichia coli,YES
+SECSG-Expression-52,FALSE,Escherichia coli,YES
+SECSG-Expression-53,FALSE,Escherichia coli,YES
+SECSG-Expression-54,FALSE,Escherichia coli,YES
+SECSG-Expression-57,FALSE,Escherichia coli,YES
+SECSG-Expression-58,FALSE,Escherichia coli,YES
+SECSG-Expression-6,FALSE,Escherichia coli,YES
+SECSG-Expression-60,FALSE,Escherichia coli,YES
+SECSG-Expression-61,FALSE,Escherichia coli,YES
+SECSG-Expression-62,FALSE,Escherichia coli,YES
+SECSG-Expression-63,FALSE,Escherichia coli,YES
+SECSG-Expression-64,FALSE,Escherichia coli,YES
+SECSG-Expression-65,FALSE,Escherichia coli,YES
+SECSG-Expression-66,FALSE,Escherichia coli,YES
+SECSG-Expression-68,FALSE,Escherichia coli,YES
+SECSG-Expression-36,FALSE,Escherichia coli,YES
+SECSG-Expression-35,FALSE,Escherichia coli,YES
+SECSG-Expression-1,FALSE,Escherichia coli,YES
+SECSG-Expression-10,FALSE,Escherichia coli,YES
+SECSG-Expression-11,FALSE,Escherichia coli,YES
+SECSG-Expression-12,FALSE,Escherichia coli,YES
+SECSG-Expression-13,FALSE,Escherichia coli,YES
+SECSG-Expression-14,FALSE,Escherichia coli,YES
+SECSG-Expression-15,FALSE,Escherichia coli,YES
+SECSG-Expression-16,FALSE,Escherichia coli,YES
+SECSG-Expression-17,FALSE,Escherichia coli,YES
+SECSG-Expression-2,FALSE,Escherichia coli,YES
+SECSG-Expression-34,FALSE,Escherichia coli,YES
+SECSG-Expression-21,FALSE,Escherichia coli,YES
+SECSG-Expression-22,FALSE,Escherichia coli,YES
+SECSG-Expression-23,FALSE,Escherichia coli,YES
+SECSG-Expression-24,FALSE,Escherichia coli,YES
+SECSG-Expression-25,FALSE,Escherichia coli,YES
+SECSG-Expression-26,FALSE,Escherichia coli,YES
+SECSG-Expression-29,FALSE,Escherichia coli,YES
+SECSG-Expression-3,FALSE,Escherichia coli,YES
+SECSG-Expression-30,FALSE,Escherichia coli,YES
+SECSG-Expression-31,FALSE,Escherichia coli,YES
+SECSG-Expression-32,FALSE,Escherichia coli,YES
+SECSG-Expression-33,FALSE,Escherichia coli,YES
+MPID-Selec1,FALSE,Escherichia coli,YES
+MPP-LP.1118,FALSE,Escherichia coli,YES
+NYCOMPS-LP.1047,FALSE,Escherichia coli,YES
+NYCOMPS-LP.597,FALSE,Escherichia coli,YES
+MPSBYNMR-expression1,FALSE,Escherichia coli,YES
+MPSBYNMR-expression2,FALSE,Escherichia coli,YES
+MPSBYNMR-expression3,FALSE,Escherichia coli,YES
